@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  azure-pipelines-agent:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-05-12T14:11:31.5060858+02:00"
+    description: Azure Devops Pipelines agent running on Kubernetes cluster.
+    digest: 26fd4763782acc01d436841b741c46a34d77bb2e1a355376631e9bb0e4d9b356
+    icon: https://raw.githubusercontent.com/emberstack/CDN/master/Projects/docker-azure-pipelines-agent/azure-pipelines.png
+    keywords:
+    - azure
+    - pipelines
+    - devops
+    - agent
+    - visual studion
+    - vscode
+    - deployment
+    name: azure-pipelines-agent
+    type: application
+    urls:
+    - azure-pipelines-agent-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-05-12T14:11:31.4885146+02:00"
